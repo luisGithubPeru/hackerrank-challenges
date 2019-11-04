@@ -7,3 +7,7 @@ EASY:
 Save the Prisoner! https://repl.it/@luisGithubPeru/Save-the-Prisoner
 
 Find Digits : https://repl.it/@luisGithubPeru/Find-DIgits
+
+MEDIUM:
+
+The Bomberman Game : https://repl.it/@luisGithubPeru/The-Bomberman-Game
